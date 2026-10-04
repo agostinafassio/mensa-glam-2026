@@ -545,9 +545,36 @@ body {
   --motif-accent: color-mix(in oklab, #65a30d 78%, transparent);
 }
 
+/* Style C geometry with Style B's blue palette. */
+[data-look="vivid"] {
+  --page-bg: radial-gradient(circle at top right, #dbeafe 0%, #eff6ff 30%, #f8fafc 66%);
+  --surface: color-mix(in oklab, #ffffff 92%, transparent);
+  --panel-bg: color-mix(in oklab, #ffffff 76%, transparent);
+  --panel-alt: color-mix(in oklab, #bfdbfe 30%, transparent);
+  --panel-border: color-mix(in oklab, #1e3a8a 18%, transparent);
+  --text-main: #0f172a;
+  --text-soft: #334155;
+  --accent-strong: #1d4ed8;
+  --nav-bg: color-mix(in oklab, #dbeafe 65%, #ffffff 35%);
+  --nav-border: color-mix(in oklab, #1e3a8a 18%, transparent);
+  --chip-bg: color-mix(in oklab, #dbeafe 76%, #ffffff 24%);
+  --chip-border: color-mix(in oklab, #1e3a8a 22%, transparent);
+  --chip-active-bg: #0f172a;
+  --chip-active-border: #0f172a;
+  --chip-active-text: #dbeafe;
+  --button-primary-bg: #2563eb;
+  --button-primary-text: #eff6ff;
+  --button-secondary-bg: color-mix(in oklab, #ffffff 84%, #dbeafe 16%);
+  --button-secondary-border: color-mix(in oklab, #1e3a8a 30%, transparent);
+  --button-secondary-text: #0f172a;
+  --motif-outline: color-mix(in oklab, #1e3a8a 52%, transparent);
+  --motif-fill: color-mix(in oklab, #93c5fd 46%, transparent);
+  --motif-accent: color-mix(in oklab, #1d4ed8 72%, transparent);
+}
+
 [data-look="vivid"] .motif-atom {
   transform-origin: center;
-  border-color: color-mix(in oklab, #7c2d12 78%, #ea580c 22%);
+  border-color: color-mix(in oklab, #1e3a8a 78%, #2563eb 22%);
 }
 
 [data-look="gala"] .event-main {

@@ -2,7 +2,6 @@
 
 import { ActionButtons } from "@/components/ActionButtons";
 import { BasePathImage } from "@/components/BasePathImage";
-import { ButtonShowcase } from "@/components/ButtonShowcase";
 import { HotelsSection } from "@/components/HotelsSection";
 import { MensaMotifBackground } from "@/components/MensaMotifBackground";
 import { NavBar } from "@/components/NavBar";
@@ -15,7 +14,7 @@ interface EventPageClientProps {
 }
 
 export function EventPageClient({ locale, content }: EventPageClientProps) {
-  const [look, setLook] = useState<ThemeLook>("gala");
+  const [look] = useState<ThemeLook>("vivid");
 
   return (
     <div data-look={look} className="look-page theme-transition relative min-h-screen text-[var(--text-main)]">
@@ -57,16 +56,6 @@ export function EventPageClient({ locale, content }: EventPageClientProps) {
             </div>
           </div>
         </section>
-
-        <ButtonShowcase
-          title={content.buttonShowcase.title}
-          subtitle={content.buttonShowcase.subtitle}
-          chooseLabel={content.buttonShowcase.chooseLabel}
-          labels={content.buttonShowcase.styles}
-          descriptions={content.buttonShowcase.styleDescriptions}
-          selectedLook={look}
-          onSelectLook={setLook}
-        />
 
         <section
           id="schedule"
