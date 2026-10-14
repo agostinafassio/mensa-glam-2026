@@ -584,7 +584,7 @@ export const siteContent: Record<Locale, SiteContent> = {
       items: [
         {
           name: "Santiago Magnin",
-          description: "Empresario, Licenciado en Administración, Contador Público y Corredor Inmobiliario. Fundador y CEO de Deinmobiliarios.",
+          description: "Entrepreneur, degree in Business Administration, Public Accountant, and Real Estate Broker. Founder and CEO of Deinmobiliarios.",
           image: "/speakers/Santiago.png",
         },
         {
