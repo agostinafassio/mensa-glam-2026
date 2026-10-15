@@ -74,7 +74,7 @@ export const siteContent: Record<Locale, SiteContent> = {
           day: "Viernes",
           sessions: [
             { time: "09:00", speaker: "Santiago Magnin" },
-            { time: "10:15", speaker: "Esteban Elías" },
+            { time: "10:15", speaker: "Esteban Elia" },
             { time: "11:30", speaker: "Gonzalo Burgos" },
           ],
         },
@@ -317,7 +317,7 @@ export const siteContent: Record<Locale, SiteContent> = {
           day: "Sexta-feira",
           sessions: [
             { time: "09:00", speaker: "Santiago Magnin" },
-            { time: "10:15", speaker: "Esteban Elías" },
+            { time: "10:15", speaker: "Esteban Elia" },
             { time: "11:30", speaker: "Gonzalo Burgos" },
           ],
         },
@@ -560,7 +560,7 @@ export const siteContent: Record<Locale, SiteContent> = {
           day: "Friday",
           sessions: [
             { time: "09:00", speaker: "Santiago Magnin" },
-            { time: "10:15", speaker: "Esteban Elías" },
+            { time: "10:15", speaker: "Esteban Elia" },
             { time: "11:30", speaker: "Gonzalo Burgos" },
           ],
         },
