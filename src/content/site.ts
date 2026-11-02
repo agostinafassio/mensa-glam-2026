@@ -81,7 +81,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         {
           day: "Sábado",
           sessions: [
-            { time: "09:00", speaker: "Irapoan Nogueira Filho Alford" },
+            { time: "09:00", speaker: "Irapoan Nogueira Filho" },
             { time: "10:15", speaker: "Alejandra Gavigán" },
             { time: "11:30", speaker: "Marina Couto" },
           ],
@@ -103,12 +103,12 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Esteban Elia",
-          description: "Director de IA en MODO | Facilitador de aprendizaje en MIT | Comercio agéntico | Transformación AI-First",
+          description: "Director de IA en MODO | Facilitador de aprendizaje en MIT | Comercio agéntico | Transformación AI-First.",
           image: "/speakers/Esteban.jpg",
         },
         {
           name: "Gonzalo Burgos",
-          description: "Ejecutivo C-level, emprendedor y abogado, con más de 15 años de trayectoria empresarial, jurídica y de gestión",
+          description: "Ejecutivo C-level, emprendedor y abogado, con más de 15 años de trayectoria empresarial, jurídica y de gestión.",
           image: "/speakers/Gonzalo.jpg",
         },
         {
@@ -117,13 +117,13 @@ export const siteContent: Record<Locale, SiteContent> = {
           image: "/speakers/marina.jpeg",
         },
         {
-          name: "Irapoan Nogueira Filho Alford",
-          description: "PhD, Dr. y Mg. en Psicología Social, Psicólogo",
+          name: "Irapoan Nogueira Filho",
+          description: "PhD, Dr. y Mg. en Psicología Social, Psicólogo. Profesor en la Universidade Federal do Rio de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
           name: "Alejandra Gavigán",
-          description: "Encargada de Comunicaciones y Organizacion Mensa Int'l Paraguay",
+          description: "Encargada de Comunicaciones y Organizacion Mensa Int'l Paraguay.",
           image: "/speakers/Alejandra.jpeg",
         },
       ],
@@ -324,7 +324,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         {
           day: "Sábado",
           sessions: [
-            { time: "09:00", speaker: "Irapoan Nogueira Filho Alford" },
+            { time: "09:00", speaker: "Irapoan Nogueira Filho" },
             { time: "10:15", speaker: "Alejandra Gavigán" },
             { time: "11:30", speaker: "Marina Couto" },
           ],
@@ -346,7 +346,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Esteban Elia",
-          description: "Head de IA na MODO | Facilitador de aprendizagem no MIT | Comércio agêntico | Transformação AI-First",
+          description: "Head de IA na MODO | Facilitador de aprendizagem no MIT | Comércio agêntico | Transformação AI-First.",
           image: "/speakers/Esteban.jpg",
         },
         {
@@ -360,8 +360,8 @@ export const siteContent: Record<Locale, SiteContent> = {
           image: "/speakers/marina.jpeg",
         },
         {
-          name: "Irapoan Nogueira Filho Alford",
-          description: "PhD, doutor e mestre em Psicologia Social, psicólogo.",
+          name: "Irapoan Nogueira Filho",
+          description: "PhD, doutor e mestre em Psicologia Social, psicólogo. Professor na Universidade Federal do Rio de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
@@ -567,7 +567,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         {
           day: "Saturday",
           sessions: [
-            { time: "09:00", speaker: "Irapoan Nogueira Filho Alford" },
+            { time: "09:00", speaker: "Irapoan Nogueira Filho" },
             { time: "10:15", speaker: "Alejandra Gavigán" },
             { time: "11:30", speaker: "Marina Couto" },
           ],
@@ -589,7 +589,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Esteban Elia",
-          description: "Head of AI at MODO | Learning Facilitator at MIT | Agentic Commerce | AI-First Transformation",
+          description: "Head of AI at MODO | Learning Facilitator at MIT | Agentic Commerce | AI-First Transformation.",
           image: "/speakers/Esteban.jpg",
         },
         {
@@ -603,8 +603,8 @@ export const siteContent: Record<Locale, SiteContent> = {
           image: "/speakers/marina.jpeg",
         },
         {
-          name: "Irapoan Nogueira Filho Alford",
-          description: "PhD, doctorate and master's degrees in Social Psychology, psychologist.",
+          name: "Irapoan Nogueira Filho",
+          description: "PhD, doctorate and master's degrees in Social Psychology, psychologist. Professor at Universidade Federal do Rio de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
