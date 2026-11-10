@@ -118,7 +118,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Irapoan Nogueira Filho",
-          description: "PhD, Dr. y Mg. en Psicología Social, Psicólogo. Profesor en la Universidade Federal do Rio de Janeiro.",
+          description: "PhD, Dr. y Mg. en Psicología Social, Psicólogo. Profesor en la Universidad Federal Rural de Río de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
@@ -361,7 +361,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Irapoan Nogueira Filho",
-          description: "PhD, doutor e mestre em Psicologia Social, psicólogo. Professor na Universidade Federal do Rio de Janeiro.",
+          description: "PhD, doutor e mestre em Psicologia Social, psicólogo. Professor na Universidade Federal Rural do Rio de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
@@ -604,7 +604,7 @@ export const siteContent: Record<Locale, SiteContent> = {
         },
         {
           name: "Irapoan Nogueira Filho",
-          description: "PhD, doctorate and master's degrees in Social Psychology, psychologist. Professor at Universidade Federal do Rio de Janeiro.",
+          description: "PhD, doctorate and master's degrees in Social Psychology, psychologist. Professor at Universidade Federal Rural do Rio de Janeiro.",
           image: "/speakers/irapoan.jpeg",
         },
         {
